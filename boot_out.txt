@@ -1,0 +1,2 @@
+Adafruit CircuitPython 7.3.0 on 2022-05-23; Adafruit ProxLight Trinkey M0 with samd21e18
+Board ID:adafruit_proxlight_trinkey_m0
